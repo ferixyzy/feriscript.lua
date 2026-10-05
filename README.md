@@ -1,1 +1,0 @@
-# feriscript.lua
